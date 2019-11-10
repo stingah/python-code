@@ -1,5 +1,6 @@
 
 # Python program for simple calculator 
+# adding comment to test pushing in git via command line
   
 # Function to add two numbers  
 def add(num1, num2): 
